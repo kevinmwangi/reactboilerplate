@@ -91,6 +91,15 @@ render(<Main/>, document.getElementById('app'));
    >npm run dev  
    To create minified production build  
    >npm run build  
-   
+
+13)To live reload page while developing  
+   >npm install -g live-reload  
+
+Check out it usage at [live-reload](https://www.npmjs.com/package/live-reload)  
+
+14)Its better to use http-server to serve react pages for development   
+   >npm install -g http-server
+
+Check out its usage at [http-server](https://www.npmjs.com/package/http-server)   
+
 ###Check out my work at:[Saurabh Mhatre](https://smhatre59.github.io/)###
-   
