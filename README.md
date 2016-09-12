@@ -1,6 +1,7 @@
 # reactboilerplate
 The most basic boiler plate for react apps  
-Simply git clone to download the boilerplate  
+1)Simply git clone https://github.com/smhatre59/reactboilerplate.git    
+2)npm install  
 ##Procdeure to create your own boiler plate  
 1) npm init  
 2) Install webpack module    
